@@ -126,7 +126,7 @@ int main() {
 		std::cout << "Enter 1 to insert an item\n";
 		std::cout << "Enter 2 to modify an items\n";
 		std::cout << "Enter 3 to search items\n";
-		std::cout << "Enter 0 to exit\n";
+		std::cout << "Enter 0 to exit\n\n";
 		std::cin >> a;
 
 		if (a == 0) {
@@ -193,7 +193,7 @@ int main() {
 					break;
 				}
 
-				--index;
+					
 				if (index >= 0) {
 					if (index > Items.size()) {
 						cerr << "Error::Index out of range\nPlease enter valid index number" << endl;
@@ -202,7 +202,7 @@ int main() {
 					else
 					{
 
-
+						--index;
 						Item itm = Items[index];
 						cout << itm.ToText();
 						cout << "\nEnter New Item Name: " << endl;;
