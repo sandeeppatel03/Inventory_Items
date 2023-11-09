@@ -9,7 +9,7 @@ It goes to insert an inventory item;<br>
 *All the item code of all item are showm in screen;<br>
 *you can enter the item code that you want to modified and you can take refrence through above statement; <br>
 *you can change the item name,code and price of it;<br>
-<h>When you press 3;</h>><br>
+<h>When you press 3;</h><br>
 *Again all item code are displayed;<br>
 *you have to enter the name or code of the item to go to search;<br>
 *you can just type a word of the name or code to perform an action;<br>
