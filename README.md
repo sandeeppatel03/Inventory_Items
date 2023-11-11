@@ -5,7 +5,7 @@
 <h>When you press 1:</h><br>
 It goes to insert an inventory item;<br>
 * After that you can enter name of the item , code and price of it;<br>
-<h.When you press 2;,</h><br>
+<h>When you press 2;,</h><br>
 *All the item code of all item are showm in screen;<br>
 *you can enter the item code that you want to modified and you can take refrence through above statement; <br>
 *you can change the item name,code and price of it;<br>
